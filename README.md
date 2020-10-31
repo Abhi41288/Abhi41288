@@ -22,7 +22,7 @@
 <h3>About me</h3>
 <ui>
   <li>
-🔭 I’m currently working at Vitesco Technologies (Continental Automotive Ltd)
+🔭 I’m currently working at Vitesco Technologies (Continental Automotive Ltd) and Ex-IBMer.
   </li>
    <li>
 👯 I’m looking to collaborate on traning

@@ -26,7 +26,7 @@
 🔭 I’m currently working at Vitesco Technologies (Continental Automotive Ltd) and Ex-IBMer.
   </li>
    <li>
-👯 I’m looking to collaborate on traning
+👯 I’m looking to collaborate on training
      </li>
    <li>
 💬 Ask me anything about React, Node, Redux, Angular, webpack or any frontend related stuff

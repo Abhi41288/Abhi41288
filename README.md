@@ -7,7 +7,7 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />   
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />  
    <img alt="Angular" src="https://img.shields.io/badge/-angular-43853d?style=flat-square&logo=Angular&logoColor=white" />  
-  <img alt="CytoscapeJs" src="https://img.shields.io/badge/-cytoscapejs-43853d?style=flat-square&logo=cytoscapejs&logoColor=white" />  
+  <img alt="CytoscapeJs" src="https://img.shields.io/badge/-cytoscapejs-43853d?style=flat-square&logo=cytoscape.js&logoColor=white" />  
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
@@ -19,6 +19,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-firebase-43853d?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/-maven-43853d?style=flat-square&logo=maven&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-43853d?style=flat-square&logo=jenkins&logoColor=white" />
 </p>
 <h3>About me</h3>
 <ui>

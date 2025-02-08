@@ -25,7 +25,7 @@
 <h3>About me</h3>
 <ui>
   <li>
-🔭 I’m currently working at Cognizant and Ex-Continental Automotive, Ex-IBM employee.
+🔭 I’m currently working at Airbus as Lead Software Engineer and Ex-Cognizant, Ex-Continental Automotive, Ex-IBM employee.
   </li>
    <li>
 👯 I’m looking to collaborate on training
